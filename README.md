@@ -20,11 +20,23 @@ This model examines how the local prevalence of a disease influences individuals
 
 *Visualized using an Erdos-Renyi graph with varying edge probabilities.*
 
+## Model Visualization
+
+![Model Visualization](1.png)
+
 ### 2. Global Prevalence-Based Model
 This model focuses on how global awareness, typically influenced by media reporting, affects the spread of an epidemic. The characteristic number of infected individuals reported plays a significant role in shaping public behavior.
 
+## Model Visualization
+
+![Model Visualization](2.png)
+
 ### 3. Local Belief-Based Model
 This model evaluates the spread of fear and awareness based on local beliefs, which may or may not align with actual disease prevalence. The model modulates the transmission rate based on contact with either infected individuals or those exhibiting fear-driven behaviors.
+
+## Model Visualization
+
+![Model Visualization](3.png)
 
 *All models are implemented in Python, using network-based simulations.*
 
